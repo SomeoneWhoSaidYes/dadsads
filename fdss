@@ -1,0 +1,5 @@
+$ git clone https://github.com/titaniumnetwork-dev/Ultraviolet.git
+> Cloning into Ultraviolet...
+$ cd Ultraviolet
+$ npm install
+$ npm run build
